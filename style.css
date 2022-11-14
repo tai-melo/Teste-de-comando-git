@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+main {
+    background-color: antiquewhite;
+    width: 600px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.centraliza {
+    text-align: center;
+}
